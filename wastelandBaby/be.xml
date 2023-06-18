@@ -1,60 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    [Verse 1]
+    <album>Wasteland, Baby</album>
+    <date>03-01-2019</date>
+   <lyrics>
+    <section type="Verse " n="1">
     When all the worst we fear lets fall its weight
-    When the gyre widens on and when the wave breaks
-    When St. Peter loses cool and bars the gates
-    When Atlas acts the maggot, makes his arms shake
+    When the <litRef>gyre widens</litRef> on and when the wave breaks
+    When <religRef>St. Peter</religRef> loses cool and bars the gates
+    When <mythRef>Atlas</mythRef> acts the maggot, makes his arms shake
     When the birds are heard again in their singin'
     Once atrocity is hoarse from voicin' shame
     And when the earth is trembling on some new beginnin'
-    With the same sweet shock of when Adam first came
-    
-    [Pre-Chorus]
+    With the same sweet shock of when <religRef>Adam</religRef> first came
+    </section>
+   <!--shd: im sorry i giggle at the final two lines of this first verse every time. "i figure that lad had an awful surprise on his hands is all" -hozier via twitter  -->
+       
+    <section type="Pre-Chorus">
     Be, be, be, be, be
     Be as you've always been
     Be, be, be, be, be
     Be as you've always been
     (Lover, be good to me)
-    
-    [Chorus 1]
+    </section>
+       
+    <section type="Chorus " n="1">
     Be as you've always been (Lover, be good to me)
-    Be like the love that discovered the sin (Lover, be good to me)
+    Be like the love that discovered the <religRef>sin</religRef> (Lover, be good to me)
     That freed the first man and will do so again
     And, lover, be good to me (Lover, be good to me)
-    Be that hopeful feeling when Eden was lost (Lover, be good to me)
+    Be that hopeful feeling when <religRef>Eden was lost</religRef> (Lover, be good to me)
     It's been deaf to our laughter since the master was crossed (Lover, be good to me)
     Which side of the wall really suffers that cost?
     Oh, lover, be good to me
-    
-    [Verse 2]
-    When the man who gives the order
+    </section>
+       
+    <section type="Verse " n="2">
+    When the <poliRef>man who gives the order</poliRef>
     Is born next time 'round on the boat sent back
-    When the bodies starvin' at the border
+    When the <poliRef>bodies starvin' at the border</poliRef>
     Are on TV givin' people the sack
     Oh, when the sea rises to meet us
     Oh, when there's nothin' left for you and I to do
     Oh, when there's nobody upstairs to receive us
     When I have no kind words left, love for you
-    
-    [Pre-Chorus]
+    </section>
+       
+    <section type="Pre-Chorus">
     Be, be, be, be, be
     Be as you've always been
     Be, be, be, be, be
     Be as you've always been
     (Lover, be good to me)
-    
-    [Chorus 2]
+    </section>
+       
+    <section type="Chorus " n="2">
     Ah, be love in its disrepute (Lover, be good to me)
     Scorches the hillside and salts every root (Lover, be good to me)
-    And watches the slowin' and starvin' of troops
+    And watches the slowin' and <poliRef>starvin' of troops</poliRef>
     And, lover, be good to me (Lover, be good to me)
     Be there and just as you stand (Lover, be good to me)
     Or be like the rose that you hold in your hand (Lover, be good to me)
     That will grow bold in a barren and desolate land
     Oh, lover, be good to me
-    
-    [Outro]
+    </section>
+       
+    <section type="Outro">
     Love, won't you be
     Love, won't you be
     Be as you've always been?
@@ -67,4 +77,6 @@
     Love, won't you be
     Love, won't you be
     Be as you've always been?
+    </section>
+   </lyrics>
 </root>

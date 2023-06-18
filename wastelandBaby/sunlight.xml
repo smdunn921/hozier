@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    [Verse 1]
+    <album>Wasteland, Baby</album>
+    <date>03-01-2019</date>
+<lyrics>
+    <section type="Verse" n="1">
     I would shun the light, share in evening's cool and quiet
     Who would trade that hum of night
     For sunlight, sunlight, sunlight
     But whose heart would not take flight?
-    Betray the moon as acolyte
+    <mythRef>Betray the moon as acolyte</mythRef>
     On first and fierce affirming sight
     Of sunlight, sunlight, sunlight
+    </section>
     
-    [Chorus]
+    <section type="Chorus">
     I had been lost to you, sunlight
     And flew like a moth to you, sunlight, oh, sunlight
     Oh, your love is sunlight
     Oh, your love is sunlight, oh
     But it is sunlight
+    </section>
     
-    [Verse 2]
+    <section type="Verse" n="2">
     All the tales the same
     Told before and told again
     A soul that's born in cold and rain
@@ -25,8 +30,9 @@
     To a buried and a burning flame
     As love and its decisive pain
     Oh, my sunlight, sunlight, sunlight
+    </section>
     
-    [Chorus]
+    <section type="Chorus">
     All that was shown to me, sunlight
     Was somethin' foreknown to me, sunlight, oh sunlight
     Oh, your love is sunlight
@@ -35,24 +41,27 @@
     Oh, your love is sunlight
     Oh, your love is sunlight
     But it is sunlight, sunlight
+    </section>
     
-    [Bridge]
+    <section type="Bridge">
     Oh, all these colors fade for you only
     Hold me, carry me slowly, my sunlight
     Oh, all these colors fade for you only
     Hold me, carry me slowly, my sunlight
     
-    [Verse 3]
+    </section>
+    <section type="Verse" n="3">
     Each day, you'd rise with me
     Know that I would gladly be
-    The Icarus to your certainty
+    The <mythRef>Icarus</mythRef> to your certainty
     Oh, my sunlight, sunlight, sunlight
-    Strap the wing to me
+    <mythRef>Strap the wing to me
     Death trap clad happily
-    With wax melted, I'd meet the sea
+    With wax melted, I'd meet the sea</mythRef>
     Under sunlight, sunlight, sunlight
+    </section>
     
-    [Chorus]
+    <section type="Chorus">
     Oh, your love is sunlight
     Oh, your love is sunlight
     But it is sunlight
@@ -65,7 +74,10 @@
     Oh, your love is sunlight
     Oh, your love is sunlight
     But it is sunlight
+    </section>
     
-    [Outro]
+    <section type="Outro">
     Sunlight, sunlight, sunlight, sunlight, sunlight
+    </section>
+</lyrics>
 </root>

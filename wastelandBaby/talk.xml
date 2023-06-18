@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    [Verse 1]
-    I'd be the voice that urged Orpheus
-    When her body was found (Hey, yeah)
-    I'd be the choiceless hope in grief
-    That drove him underground (Hey, yeah)
-    I'd be the dreadful need in the devotee
-    That made him turn around (Hey, yeah)
-    And I'd be the immediate forgiveness
-    In Eurydice
-    Imagine being loved by me
-    
-    [Chorus]
-    I won't deny I've got in my mind now (Hey, yeah)
-    All the things I would do
-    So I try to talk refined for fear that you find out (Hey, yeah)
-    How I'm imaginin' you
-    
-    [Verse 2]
-    I'd be the last shred of truth
-    In the lost myth of true love (Hey, yeah)
-    I'd be the sweet feeling of release
-    Mankind now dreams of (Hey, yeah)
-    That's found in the last witness
-    Before the wave hits, marvelling at God (Hey, yeah)
-    Before he feels alone one final time and marries the sea
-    Imagine being loved by me
-    
-    [Chorus]
-    I won't deny I've got in my mind now (Hey, yeah)
-    All the things I would do
-    So I try to talk refined for fear that you find out (Hey, yeah)
-    How I'm imaginin' you
-    I won't deny I've got in my mind now (Hey, yeah)
-    All the things we could do
-    So I try to talk refined for fear that you find out (Hey, yeah)
-    How I'm imaginin' you
+    <album>Wasteland, Baby</album>
+    <date>03-01-2019</date>
+    <lyrics>
+        <section type="Verse " n="1">
+        I'd be the voice that urged <mythRef>Orpheus</mythRef>
+        When her body was found (Hey, yeah)
+        I'd be the choiceless hope in grief
+        That drove him <mythRef>underground</mythRef> (Hey, yeah)
+        I'd be the dreadful need in the devotee
+        That made him <mythRef>turn around</mythRef> (Hey, yeah)
+        And I'd be the immediate forgiveness
+        In <mythRef>Eurydice</mythRef>
+        Imagine being loved by me
+        </section>
+        
+        <section type="Chorus">
+        I won't deny I've got in my mind now (Hey, yeah)
+        All the things I would do
+        So I try to talk refined for fear that you find out (Hey, yeah)
+        How I'm imaginin' you
+        </section>
+        
+        <section type="Verse " n="2">
+        I'd be the last shred of truth
+        In the lost myth of true love (Hey, yeah)
+        I'd be the sweet feeling of release
+        Mankind now dreams of (Hey, yeah)
+        That's found in the last witness
+        Before the wave hits, marvelling at <religRef>God</religRef> (Hey, yeah)
+        Before he feels alone one final time and marries the sea
+        Imagine being loved by me
+        </section>
+        
+        <section type="Chorus">
+        I won't deny I've got in my mind now (Hey, yeah)
+        All the things I would do
+        So I try to talk refined for fear that you find out (Hey, yeah)
+        How I'm imaginin' you
+        I won't deny I've got in my mind now (Hey, yeah)
+        All the things we could do
+        So I try to talk refined for fear that you find out (Hey, yeah)
+        How I'm imaginin' you
+        </section>
+</lyrics>
 </root>
