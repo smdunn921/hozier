@@ -1,82 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <album>Wasteland, Baby</album>
-    <date>03-01-2019</date>
-   <lyrics>
-    <section type="Verse " n="1">
-    When all the worst we fear lets fall its weight
-    When the <litRef>gyre widens</litRef> on and when the wave breaks
-    When <religRef>St. Peter</religRef> loses cool and bars the gates
-    When <mythRef>Atlas</mythRef> acts the maggot, makes his arms shake
-    When the birds are heard again in their singin'
-    Once atrocity is hoarse from voicin' shame
-    And when the earth is trembling on some new beginnin'
-    With the same sweet shock of when <religRef>Adam</religRef> first came
-    </section>
-   <!--shd: im sorry i giggle at the final two lines of this first verse every time. "i figure that lad had an awful surprise on his hands is all" -hozier via twitter  -->
-       
-    <section type="Pre-Chorus">
-    Be, be, be, be, be
-    Be as you've always been
-    Be, be, be, be, be
-    Be as you've always been
-    (Lover, be good to me)
-    </section>
-       
-    <section type="Chorus " n="1">
-    Be as you've always been (Lover, be good to me)
-    Be like the love that discovered the <religRef>sin</religRef> (Lover, be good to me)
-    That freed the first man and will do so again
-    And, lover, be good to me (Lover, be good to me)
-    Be that hopeful feeling when <religRef>Eden was lost</religRef> (Lover, be good to me)
-    It's been deaf to our laughter since the master was crossed (Lover, be good to me)
-    Which side of the wall really suffers that cost?
-    Oh, lover, be good to me
-    </section>
-       
-    <section type="Verse " n="2">
-    When the <poliRef>man who gives the order</poliRef>
-    Is born next time 'round on the boat sent back
-    When the <poliRef>bodies starvin' at the border</poliRef>
-    Are on TV givin' people the sack
-    Oh, when the sea rises to meet us
-    Oh, when there's nothin' left for you and I to do
-    Oh, when there's nobody upstairs to receive us
-    When I have no kind words left, love for you
-    </section>
-       
-    <section type="Pre-Chorus">
-    Be, be, be, be, be
-    Be as you've always been
-    Be, be, be, be, be
-    Be as you've always been
-    (Lover, be good to me)
-    </section>
-       
-    <section type="Chorus " n="2">
-    Ah, be love in its disrepute (Lover, be good to me)
-    Scorches the hillside and salts every root (Lover, be good to me)
-    And watches the slowin' and <poliRef>starvin' of troops</poliRef>
-    And, lover, be good to me (Lover, be good to me)
-    Be there and just as you stand (Lover, be good to me)
-    Or be like the rose that you hold in your hand (Lover, be good to me)
-    That will grow bold in a barren and desolate land
-    Oh, lover, be good to me
-    </section>
-       
-    <section type="Outro">
-    Love, won't you be
-    Love, won't you be
-    Be as you've always been?
-    Love, won't you be
-    Love, won't you be
-    Be as you've always been?
-    Love, won't you be
-    Love, won't you be
-    Be as you've always been?
-    Love, won't you be
-    Love, won't you be
-    Be as you've always been?
-    </section>
-   </lyrics>
-</root>
+<song>
+ <information>
+  <trackNumber>10</trackNumber>
+  <title>Be</title>
+ </information>
+ <lyrics>
+  <section type="Verse" n="1">
+   <line>When all the worst we fear lets fall its weight</line>
+   <line>When the <litRef>gyre widens</litRef> on and when the wave breaks</line>
+   <line>When <religRef>St. Peter</religRef> loses cool and bars the gates</line>
+   <line>When <mythRef>Atlas</mythRef> acts the maggot, makes his arms shake</line>
+   <line>When the birds are heard again in their singin'</line>
+   <line>Once atrocity is hoarse from voicin' shame</line>
+   <line>And when the earth is trembling on some new beginnin'</line>
+   <line>With the same sweet shock of when <religRef>Adam</religRef> first came</line> <!--shd: im sorry i giggle at the final two lines of this first verse every time. "i figure that lad had an awful surprise on his hands is all" -hozier via twitter  -->
+  </section>
+  <section type="Pre-Chorus">
+   <line>Be, be, be, be, be</line>
+   <line>Be as you've always been</line>
+   <line>Be, be, be, be, be</line>
+   <line>Be as you've always been</line>
+   <line>(Lover, be good to me)</line>
+  </section>
+  <section type="Chorus" n="1">
+   <line>Be as you've always been (Lover, be good to me)</line>
+   <line>Be like the love that discovered the <religRef>sin</religRef> (Lover, be good to me)</line>
+   <line>That freed the first man and will do so again</line>
+   <line>And, lover, be good to me (Lover, be good to me)</line>
+   <line>Be that hopeful feeling when <religRef>Eden was lost</religRef> was lost (Lover, be good to me)</line>
+   <line>It's been deaf to our laughter since the master was crossed (Lover, be good to me)</line>
+   <line>Which side of the wall really suffers that cost?</line>
+   <line>Oh, lover, be good to me</line>
+  </section>
+  <section type="Verse" n="2">
+   <line>When the <poliRef>man who gives the order</poliRef></line>
+   <line>Is born next time 'round on the boat sent back</line>
+   <line>When the <poliRef>bodies starvin' at the border</poliRef></line>
+   <line>Are on TV givin' people the sack</line>
+   <line>Oh, when the sea rises to meet us</line>
+   <line>Oh, when there's nothin' left for you and I to do</line>
+   <line>Oh, when there's nobody upstairs to receive us</line>
+   <line>When I have no kind words left, love for you</line>
+  </section>
+  <section type="Pre-Chorus">
+   <line>Be, be, be, be, be</line>
+   <line>Be as you've always been</line>
+   <line>Be, be, be, be, be</line>
+   <line>Be as you've always been</line>
+   <line>(Lover, be good to me)</line>
+  </section>
+  <section type="Chorus" n="2">
+   <line>Ah, be love in its disrepute (Lover, be good to me)</line>
+   <line>Scorches the hillside and salts every root (Lover, be good to me)</line>
+   <line>And watches the slowin' and <poliRef>starvin' of troops</poliRef></line>
+   <line>And, lover, be good to me (Lover, be good to me)</line>
+   <line>Be there and just as you stand (Lover, be good to me)</line>
+   <line>Or be like the rose that you hold in your hand (Lover, be good to me)</line>
+   <line>That will grow bold in a barren and desolate land</line>
+   <line>Oh, lover, be good to me</line>
+  </section>
+  <section type="Outro">
+   <line>Love, won't you be</line>
+   <line>Love, won't you be</line>
+   <line>Be as you've always been?</line>
+   <line>Love, won't you be</line>
+   <line>Love, won't you be</line>
+   <line>Be as you've always been?</line>
+   <line>Love, won't you be</line>
+   <line>Love, won't you be</line>
+   <line>Be as you've always been?</line>
+   <line>Love, won't you be</line>
+   <line>Love, won't you be</line>
+   <line>Be as you've always been?</line>
+  </section>\ </lyrics>
+</song>
