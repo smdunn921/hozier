@@ -1,66 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    [Verse 1]
-    So tired trying to see from behind the red in my eyes
-    No better version of me I could pretend to be tonight
-    Soul deep in this swill with the most familiar of swine
-    For reasons wretched and divine
+<metadata>
+    <artist>Andrew Hozier-Byrne</artist>
+    <producer>Andrew Hozier-Byrne</producer>
+    <producer>Rob Kirwan</producer>
+    <album>Wasteland, Baby</album>
+    <date>03-01-2019</date>
+    <title>Jackie and Wilson</title>
+    <trackNumber>3</trackNumber>
     
-    [Verse 2]
-    She blows out of nowhere, a roman candle of the wild
-    Laughing her way through my feeble disguise
-    No other version of me I would rather be tonight
-    And Lord, she found me just in time
+</metadata>
     
-    [Pre-Chorus 1]
-    'Cause with my mid-youth crisis all said and done
-    I need to be youthfully felt 'cause, God, I never felt young
-    
-    [Chorus]
-    She's gonna save me, call me baby
-    Run her hands through my hair
-    She'll know me crazy, soothe me daily
-    Better yet, she wouldn't care
-    We'll steal her Lexus, be detectives
-    Ride 'round picking up clues
-    We'll name our children Jackie and Wilson
-    Raise 'em on rhythm and blues
-    
-    [Verse 3]
-    Lord, it'd be great to find a place we could escape sometime
-    Me and my Isis growing black irises in the sunshine
-    Every version of me dead and buried in the yard outside
-    We'd sit back and watch the world go by
-    
-    [Pre-Chorus 2]
-    Happy to lie back, watch it burn and rust
-    We tried the world; good God, it wasn't for us
-    
-    [Chorus]
-    She's gonna save me, call me baby
-    Run her hands through my hair
-    She'll know me crazy, soothe me daily
-    Better yet, she wouldn't care
-    We'll steal her Lexus, be detectives
-    Ride 'round picking up clues
-    We'll name our children Jackie and Wilson
-    Raise 'em on rhythm and blues
-    
-    [Instrumental]
-    
-    [Verse 4]
-    Cut clean from the dream at night, let my mind reset
-    Looking up from a cigarette, she's already left
-    I start digging up the yard for what's left of me in our little vignette
-    For whatever poor soul is coming next
-    
-    [Chorus]
-    She's gonna save me, call me baby
-    Run her hands through my hair
-    She'll know me crazy, soothe me daily
-    Better yet, she wouldn't care
-    We'll steal her Lexus, be detectives
-    Ride 'round picking up clues
-    We'll name our children Jackie and Wilson
-    Raise 'em on rhythm and blues
+<song><section type="Verse" n="1">
+<line>    So tired trying to see from behind the red in my eyes</line>
+<line>    No better version of me I could pretend to be tonight</line>
+<line>    <slangRef>Soul deep in this swill with the most familiar of swine</slangRef></line>
+<line>    For reasons wretched and divine</line>
+</section>
+<section type="Verse" n="2">
+    <line>    <litRef author="James-Joyce" id="Ulysses"><!-- amp: not sure about this either...roman candles are referenced in Ulysses as a metaphor for sexual release but idk how we want to put that into the markup -->She blows out of nowhere, <slangRef>a roman candle</slangRef> of the wild</litRef></line>
+<line>    Laughing her way through my feeble disguise</line>
+<line>    No other version of me I would rather be tonight</line>
+<line>    And <religRef>Lord</religRef>, she found me just in time</line></section>
+
+
+<section type="Pre-Chorus" n="1">
+<line>    'Cause with my mid-youth crisis all said and done</line>
+<line>    I need to be youthfully felt 'cause, God, I never felt young</line>
+</section>
+
+<section type="Chorus">
+<line>    She's gonna save me, call me baby</line>
+<line>    Run her hands through my hair</line>
+<line>    She'll know me crazy, soothe me daily</line>
+<line>    Better yet, she wouldn't care</line>
+<popCultRef id="Bonnie-and-Clyde"><line>    We'll steal her Lexus, be detectives</line>
+<line>    Ride 'round picking up clues</line></popCultRef>
+<line>    We'll name our children <musicRef type="musician" id="Jackie-Wilson">Jackie and Wilson</musicRef></line>
+<line>    Raise 'em on <musicRef type="genre" id="rhythm">rhythm</musicRef> and <musicRef type="genre" id="blues">blues</musicRef></line><!-- amp: not sure about this way of marking up refs to genre? it might make sense to have genre be another attribute (unless we make some sort of library and that has metadata on the genre that's being referenced? i declare i do not know -->
+</section>
+
+<section type="Verse" n="3">
+<line>    Lord, it'd be great to find a place we could escape sometime</line>
+<line>    Me and my <mythRef id="isis">Isis</mythRef> growing <mythRef id="iris">black irises in the sunshine</mythRef><!-- amp: don't quote me on this one! in my research i saw something about the black iris being seen as mysterious (irises are usually colorful and iris the goddess was the goddess of the rainbow); there's an air of rebellion in the song but i'm uncertain if he's referencing iris herself here or if he just liked the image of the black flowers? --></line>
+<line>    Every version of me dead and buried in the yard outside</line>
+<line>    We'd sit back and watch the world go by</line>
+</section>
+
+<section type="Pre-Chorus" n="2">
+<line>    Happy to lie back, watch it burn and rust</line>
+<line>    We tried the world; good God, it wasn't for us</line>
+</section>
+
+<section type="Chorus">
+<line>    She's gonna save me, call me baby</line>
+<line>    Run her hands through my hair</line>
+<line>    She'll know me crazy, soothe me daily</line>
+<line>    Better yet, she wouldn't care</line>
+<popCultRef id="Bonnie-and-Clyde"><line>    We'll steal her Lexus, be detectives</line>
+<line>    Ride 'round picking up clues</line></popCultRef>
+<line>    We'll name our children <musicRef type="artist" id="Jackie-Wilson">Jackie and Wilson</musicRef></line>
+<line>    Raise 'em on rhythm and blues</line>
+</section>
+
+<section type="Instrumental">
+</section>
+<!-- amp: did we wanna keep these sections? -->
+<section type="Verse" n="4">
+<line>    Cut clean from the dream at night, let my mind reset</line>
+<line>    Looking up from a cigarette, she's already left</line>
+<line>    I start digging up the yard for what's left of me in our little vignette</line>
+<line>    For whatever poor soul is coming next</line>
+</section>
+
+<section type="Chorus">
+<line>    She's gonna save me, call me baby</line>
+<line>    Run her hands through my hair</line>
+<line>    She'll know me crazy, soothe me daily</line>
+<line>    Better yet, she wouldn't care</line>
+<popCultRef id="Bonnie-and-Clyde"><line>    We'll steal her Lexus, be detectives</line>
+<line>    Ride 'round picking up clues</line></popCultRef>
+<line>    We'll name our children Jackie and Wilson</line>
+    <line>    Raise 'em on rhythm and blues</line>
+</section></song>
 </root>
