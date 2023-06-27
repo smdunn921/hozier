@@ -1,71 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    [Verse 1: Hozier]
-    It's not the waking, it's the rising
-    It is the grounding of a foot uncompromising
-    It's not forgoing of the lie
-    It's not the opening of eyes
-    It's not the waking, it's the rising
-    It's not the shade, we should be past it
-    It's the light, and it's the obstacle that casts it
-    It's the heat that drives the light
-    It's the fire it ignites
-    It's not the waking, it's the rising
-    It's not the song, it is the singing
-    It's the hearing of a human spirit ringing
-    It is the bringing of the line
-    It is the bearing of the rhyme
-    It's not the waking, it's the rising
-    
-    [Chorus: Hozier &amp; Mavis Staples]
-    And I could cry power (Power), power (Power)
-    Power, Lord
-    Nina cried power
-    Billie cried power
-    Mavis cried power
-    And I could cry (Power) power, (Power) power
-    Hey, power
-    Curtis cried power
-    Patti cried power
-    Nina cried power
-    
-    [Verse 2: Hozier]
-    It's not the wall, but what's behind it
-    Oh, the fear of fellow man, his mere assignment
-    And everything that we're denied
-    By keeping the divide
-    It's not the waking, it's the rising
-    
-    [Chorus: Hozier &amp; Mavis Staples]
-    And I could cry power (Power), power (Power)
-    Oh, power
-    Nina cried power
-    Lennon cried power
-    James Brown cried power
-    And I could cry (Power) power, (Power) power
-    Hey, power
-    B.B. cried power
-    Joni cried power
-    Nina cried power
-    
-    [Bridge: Mavis Staples]
-    And I could cry power
-    Power has been cried by those stronger than me
-    Straight into the face that tells you to
-    Rattle your chains if you love being free
-    
-    [Chorus: Hozier &amp; Mavis Staples]
-    But I could cry power (Power)
-    'Cause power is my love when my love reaches to me
-    James Brown cried power
-    Seeger cried power
-    Marvin cried power
-    Yeah ah, power
-    James cried power
-    Lennon cried power
-    Patti cried power
-    Billie, power
-    Dylan, power
-    Woody, power
-    Nina cried power
+<metadata>
+<artist>Andrew Hozier-Byrne</artist>
+    <artist type ="featured">Mavis Staples</artist>
+<producer>Andrew Hozier-Byrne</producer>
+<producer>Markus Dravs</producer>
+<album>Wasteland, Baby</album>
+<date>09-06-2018</date>
+<title>Nina Cried Power</title>
+<trackNumber>1</trackNumber>
+</metadata>
+<section type="verse" n="1">
+<line>It's not the waking, it's the rising</line>
+<line>It is the grounding of a foot uncompromising</line>
+<line>It's not forgoing of the lie</line>
+<line>It's not the opening of eyes</line>
+<line>It's not the waking, it's the rising</line>
+<line>It's not the shade, we should be past it</line>
+<line>It's the light, and it's the obstacle that casts it</line>
+<line>It's the heat that drives the light</line>
+<line>It's the fire it ignites</line>
+<line>It's not the waking, it's the rising</line>
+<line>It's not the song, it is the singing</line>
+<line>It's the hearing of a human spirit ringing</line>
+<line>It is the bringing of the line</line>
+<line>It is the bearing of the rhyme</line>
+<line>It's not the waking, it's the rising</line>
+</section>
+<section type="Chorus">
+<musicRef type="song" id="Sinnerman" artist="Nina-Simone"><line>And I could cry power (Power), power (Power)</line>
+<line>Power, Lord</line>
+<line><musicRef type="musician" id="Nina-Simone">Nina</musicRef> cried power</line>
+<line><musicRef type="musician" id="Billie-Holiday">Billie</musicRef> cried power</line>
+<line><musicRef type="musician" id="Mavis-Staples">Mavis</musicRef> cried power</line>
+<line>And I could cry (Power) power, (Power) power</line>
+<line>Hey, power</line>
+<line><musicRef type="musician" id="Curtis-Mayfield">Curtis</musicRef> cried power</line>
+<line><musicRef type="musician" id="Patti-Smith">Patti</musicRef> cried power</line>
+<line>Nina cried power</line></musicRef>
+</section>
+<section type="Verse" n="2">
+<line>It's not the wall, but what's behind it</line>
+<line>Oh, the fear of fellow man, his mere assignment</line>
+<line>And everything that we're denied</line>
+<line>By keeping the divide</line>
+<line>It's not the waking, it's the rising</line>
+</section>
+<section type="Chorus" feat="Mavis-Staples">
+<line>And I could cry power (Power), power (Power)</line>
+<line>Oh, power</line>
+<line>Nina cried power</line>
+<line>Lennon cried power</line>
+<line>James Brown cried power</line>
+<line>And I could cry (Power) power, (Power) power</line>
+<line>Hey, power</line>
+<line><musicRef type="musician" id="BB-King">B.B.</musicRef> cried power</line>
+<line><musicRef type="musician" id="Joni-Mitchell">Joni</musicRef> cried power</line>
+<line><musicRef type="musician" id="Nina-Simone">Nina</musicRef> cried power</line>
+</section>
+<section type="Bridge">
+<line>And I could cry power</line>
+<line>Power has been cried by those stronger than me</line>
+<line>Straight into the face that tells you to</line>
+<line>Rattle your chains if you love being free</line>
+</section>
+<section type="Chorus" feat="Mavis-Staples">
+<line>But I could cry power (Power)</line>
+<line>'Cause power is my love when my love reaches to me</line>
+<line><musicRef type="musician" id="James-Brown">James Brown</musicRef> cried power</line>
+<line><musicRef type="musician" id="Pete-Seeger">Seeger</musicRef> cried power</line>
+<line><musicRef type="musician" id="Marvin-Gaye">Marvin</musicRef> cried power</line>
+<line>Yeah ah, power</line>
+<line><musicRef type="musician" id="James-Brown">James</musicRef> cried power</line>
+<line><musicRef type="musician" id="John-Lennon">Lennon</musicRef> cried power</line>
+<line><musicRef type="musician" id="Patti-Smith">Patti</musicRef> cried power</line>
+<line><musicRef type="musician" id="Billie-Holiday">Billie</musicRef>, power</line>
+<line><musicRef type="musician" id="Bob-Dylan">Dylan</musicRef>, power</line>
+<line><musicRef type="musician" id="Woody-Guthrie">Woody</musicRef>, power</line>
+<line><musicRef type="musician" id="Nina-Simone">Nina</musicRef> cried power</line>
+</section>
 </root>
