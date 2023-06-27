@@ -1,38 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    [Verse 1]
-    I couldn't utter my love when it counted
-    Ah, but I'm singing like a bird 'bout it now
-    And I couldn't whisper when you needed it shouted
-    Ah, but I'm singing like a bird 'bout it now
-    
-    [Chorus]
-    Words hung above, but never would form
-    Like a cry at the final breath that is drawn
-    Remember me, love, when I'm reborn
-    As a shrike to your sharp and glorious thorn
-    
-    [Verse 2]
-    I'd no idea on what ground I was founded
-    All of that goodness is going with you now
-    Then when I met you, my virtues uncounted
-    All of my goodness is going with you now
-    
-    [Chorus]
-    Dragging along, follow in your form
-    Hung like the pelt of some prey you had worn
-    Remember me, love, when I'm reborn
-    As the shrike to your sharp and glorious thorn
-    
-    [Verse 3]
-    I fled to the city with so much discounted
-    Ah, but I'm flying like a bird to you now
-    Back to the hedgerows where bodies are mounted
-    Ah, but I'm flying like a bird to you now
-    
-    [Chorus 3]
-    I was housed by your warmth, thus transformed
-    By your grounded and giving and darkening scorn
-    Remember me, love, when I'm reborn
-    As the shrike to your sharp and glorious thorn
-</root>
+<song>
+    <information>
+        <trackNumber>8</trackNumber>
+        <title>Shrike</title>
+        <album>Wasteland, Baby</album>
+    </information>
+    <lyrics>
+        <section type="Verse" n="1">
+            <line>I couldn't utter my love when it counted</line>
+            <line>Ah, but I'm <natureRef>singing like a bird</natureRef> 'bout it now</line>
+            <line>And I couldn't whisper when you needed it shouted</line>
+            <line>Ah, but I'm <natureRef>singing like a bird</natureRef> 'bout it now</line>
+        </section>
+
+        <section type="Chorus" n="1">
+            <line>Words hung above, but never would form</line>
+            <line>Like a cry at the <natureRef>final breath that is drawn</natureRef></line>
+            <line>Remember me, love, when I'm reborn</line>
+            <line>As a <natureRef>shrike</natureRef> to your sharp and glorious thorn</line>
+        </section>
+
+        <section type="Verse" n="2">
+            <line>I'd no idea on what ground I was founded</line>
+            <line>All of that goodness is going with you now</line>
+            <line>Then when I met you, my virtues uncounted</line>
+            <line>All of my goodness is going with you now</line>
+        </section>
+
+        <section type="Chorus" n="2">
+            <line>Dragging along, follow in your form</line>
+            <line>Hung like the <natureRef>pelt</natureRef> of some <natureRef>prey</natureRef> you
+                had worn</line>
+            <line>Remember me, love, when I'm reborn</line>
+            <line>As the <natureRef>shrike</natureRef> to your sharp and glorious thorn</line>
+        </section>
+
+        <section type="Verse" n="3">
+            <line>I fled to the city with so much discounted</line>
+            <line>Ah, but I'm <natureRef>flying like a bird</natureRef> to you now</line>
+            <line>Back to the <natureRef>hedgerows</natureRef> where <natureRef>bodies are
+                    mounted</natureRef></line>
+            <line>Ah, but I'm flying like a bird to you now</line>
+        </section>
+
+        <section type="Chorus" n="3">
+            <line>I was housed by your warmth, thus transformed</line>
+            <line>By your grounded and giving and darkening scorn</line>
+            <line>Remember me, love, when I'm reborn</line>
+            <line>As the <natureRef>shrike</natureRef> to your sharp and glorious thorn</line>
+        </section>
+    </lyrics>
+</song>

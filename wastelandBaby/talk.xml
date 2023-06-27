@@ -1,47 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <album>Wasteland, Baby</album>
-    <date>03-01-2019</date>
+<song>
+    <information>
+        <trackNumber>9</trackNumber>
+        <title>Talk</title>
+        <album>Wasteland, Baby</album>
+    </information>
     <lyrics>
-        <section type="Verse " n="1">
-        I'd be the voice that urged <mythRef>Orpheus</mythRef>
-        When her body was found (Hey, yeah)
-        I'd be the choiceless hope in grief
-        That drove him <mythRef>underground</mythRef> (Hey, yeah)
-        I'd be the dreadful need in the devotee
-        That made him <mythRef>turn around</mythRef> (Hey, yeah)
-        And I'd be the immediate forgiveness
-        In <mythRef>Eurydice</mythRef>
-        Imagine being loved by me
+        <section type="Verse" n="1">
+            <line>I'd be the voice that urged <mythRef>Orpheus</mythRef></line>
+            <line>When her body was found (Hey, yeah)</line>
+            <line>I'd be the choiceless hope in grief</line>
+            <line>That drove him <mythRef>underground</mythRef> (Hey, yeah)</line>
+            <line>I'd be the dreadful need in the devotee</line>
+            <line>That <mythRef>made him turn around</mythRef> (Hey, yeah)</line>
+            <line>And I'd be the immediate forgiveness</line>
+            <line>In <mythRef>Eurydice</mythRef></line>
+            <line>Imagine being loved by me</line>
         </section>
-        
+
         <section type="Chorus">
-        I won't deny I've got in my mind now (Hey, yeah)
-        All the things I would do
-        So I try to talk refined for fear that you find out (Hey, yeah)
-        How I'm imaginin' you
+            <line>I won't deny I've got in my mind now (Hey, yeah)</line>
+            <line>All the things I would do</line>
+            <line>So I try to talk refined for fear that you find out (Hey, yeah)</line>
+            <line>How I'm imaginin' you</line>
         </section>
-        
-        <section type="Verse " n="2">
-        I'd be the last shred of truth
-        In the lost myth of true love (Hey, yeah)
-        I'd be the sweet feeling of release
-        Mankind now dreams of (Hey, yeah)
-        That's found in the last witness
-        Before the wave hits, marvelling at <religRef>God</religRef> (Hey, yeah)
-        Before he feels alone one final time and marries the sea
-        Imagine being loved by me
+
+        <section type="Verse" n="2">
+            <line>I'd be the last shred of truth</line>
+            <line>In the lost myth of true love (Hey, yeah)</line>
+            <line>I'd be the sweet feeling of release</line>
+            <line>Mankind now dreams of (Hey, yeah)</line>
+            <line>That's found in the last witness</line>
+            <line>Before the wave hits, marvelling at <religRef>God</religRef> (Hey, yeah)</line>
+            <line>Before he feels alone one final time and marries the sea</line>
+            <line>Imagine being loved by me</line>
         </section>
-        
+
         <section type="Chorus">
-        I won't deny I've got in my mind now (Hey, yeah)
-        All the things I would do
-        So I try to talk refined for fear that you find out (Hey, yeah)
-        How I'm imaginin' you
-        I won't deny I've got in my mind now (Hey, yeah)
-        All the things we could do
-        So I try to talk refined for fear that you find out (Hey, yeah)
-        How I'm imaginin' you
+            <line>I won't deny I've got in my mind now (Hey, yeah)</line>
+            <line>All the things I would do</line>
+            <line>So I try to talk refined for fear that you find out (Hey, yeah)</line>
+            <line>How I'm imaginin' you</line>
+            <line>I won't deny I've got in my mind now (Hey, yeah)</line>
+            <line>All the things we could do</line>
+            <line>So I try to talk refined for fear that you find out (Hey, yeah)</line>
+            <line>How I'm imaginin' you</line>
         </section>
-</lyrics>
-</root>
+    </lyrics>
+</song>

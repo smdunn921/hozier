@@ -1,83 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <album>Wasteland, Baby</album>
-    <date>03-01-2019</date>
-<lyrics>
-    <section type="Verse" n="1">
-    I would shun the light, share in evening's cool and quiet
-    Who would trade that hum of night
-    For sunlight, sunlight, sunlight
-    But whose heart would not take flight?
-    <mythRef>Betray the moon as acolyte</mythRef>
-    On first and fierce affirming sight
-    Of sunlight, sunlight, sunlight
-    </section>
-    
-    <section type="Chorus">
-    I had been lost to you, sunlight
-    And flew like a moth to you, sunlight, oh, sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight, oh
-    But it is sunlight
-    </section>
-    
-    <section type="Verse" n="2">
-    All the tales the same
-    Told before and told again
-    A soul that's born in cold and rain
-    Knows sunlight, sunlight, sunlight
-    And at last can grant a name
-    To a buried and a burning flame
-    As love and its decisive pain
-    Oh, my sunlight, sunlight, sunlight
-    </section>
-    
-    <section type="Chorus">
-    All that was shown to me, sunlight
-    Was somethin' foreknown to me, sunlight, oh sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight, sunlight
-    </section>
-    
-    <section type="Bridge">
-    Oh, all these colors fade for you only
-    Hold me, carry me slowly, my sunlight
-    Oh, all these colors fade for you only
-    Hold me, carry me slowly, my sunlight
-    
-    </section>
-    <section type="Verse" n="3">
-    Each day, you'd rise with me
-    Know that I would gladly be
-    The <mythRef>Icarus</mythRef> to your certainty
-    Oh, my sunlight, sunlight, sunlight
-    <mythRef>Strap the wing to me
-    Death trap clad happily
-    With wax melted, I'd meet the sea</mythRef>
-    Under sunlight, sunlight, sunlight
-    </section>
-    
-    <section type="Chorus">
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight
-    Oh, your love is sunlight
-    Oh, your love is sunlight
-    But it is sunlight
-    </section>
-    
-    <section type="Outro">
-    Sunlight, sunlight, sunlight, sunlight, sunlight
-    </section>
-</lyrics>
-</root>
+<song>
+    <information>
+        <trackNumber>13</trackNumber>
+        <title>Sunlight</title>
+        <album>Wasteland, Baby</album>
+    </information>
+    <lyrics>
+        <section type="Verse" n="1">
+            <line>I would shun the light, share in evening's cool and quiet</line>
+            <line>Who would trade that hum of night</line>
+            <line>For sunlight, sunlight, sunlight</line>
+            <line>But whose heart would not take flight?</line>
+            <line>
+                <mythRef>Betray the moon as acolyte</mythRef>
+            </line>
+            <line>On first and fierce affirming sight</line>
+            <line>Of sunlight, sunlight, sunlight</line>
+        </section>
+
+        <section type="Chorus">
+            <line>I had been lost to you, sunlight</line>
+            <line>And flew like a moth to you, sunlight, oh, sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight, oh</line>
+            <line>But it is sunlight</line>
+        </section>
+
+        <section type="Verse" n="2">
+            <line>All the tales the same</line>
+            <line>Told before and told again</line>
+            <line>A soul that's born in cold and rain</line>
+            <line>Knows sunlight, sunlight, sunlight</line>
+            <line>And at last can grant a name</line>
+            <line>To a buried and a burning flame</line>
+            <line>As love and its decisive pain</line>
+            <line>Oh, my sunlight, sunlight, sunlight</line>
+        </section>
+
+        <section type="Chorus">
+            <line>All that was shown to me, sunlight</line>
+            <line>Was somethin' foreknown to me, sunlight, oh sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight, sunlight</line>
+        </section>
+
+        <section type="Bridge">
+            <line>Oh, all these colors fade for you only</line>
+            <line>Hold me, carry me slowly, my sunlight</line>
+            <line>Oh, all these colors fade for you only</line>
+            <line>Hold me, carry me slowly, my sunlight</line>
+        </section>
+
+        <section type="Verse" n="3">
+            <line>Each day, you'd rise with me</line>
+            <line>Know that I would gladly be</line>
+            <line>The <mythRef>Icarus</mythRef> to your certainty</line>
+            <line>Oh, my sunlight, sunlight, sunlight</line>
+            <line>
+                <mythRef>Strap the wing to me</mythRef>
+            </line>
+            <line>
+                <mythRef>Death trap clad happily</mythRef>
+            </line>
+            <line>
+                <mythRef>With wax melted, I'd meet the sea</mythRef>
+            </line>
+            <line>Under sunlight, sunlight, sunlight</line>
+        </section>
+
+        <section type="Chorus">
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>Oh, your love is sunlight</line>
+            <line>But it is sunlight</line>
+        </section>
+
+        <section type="Outro">
+            <line>Sunlight, sunlight, sunlight, sunlight, sunlight</line>
+        </section>
+    </lyrics>
+</song>
