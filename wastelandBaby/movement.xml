@@ -1,71 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    [Verse 1]
-    I still watch you when you're groovin'
-    As if through water from the bottom of a pool
-    You're movin' without movin'
-    And when you move, I'm moved
-    You are a call to motion
-    There, all of you a verb in perfect view
-    Like Jonah on the ocean
-    When you move, I'm moved
-    
-    [Pre-Chorus]
-    When you move
-    I'm put to mind of all that I wanna be
-    When you move
-    I could never define all that you are to me
-    
-    [Chorus]
-    So move me, baby
-    Shake like the bough of a willow tree
-    You do it naturally
-    Move me, baby
-    
-    [Verse 2]
-    You are the rite of movement
-    Its reasonin' made lucid and cool
-    I know it's no improvement
-    When you move, I move
-    You're S. Polunin leapin'
-    Or Fred Astaire in sequence
-    Honey, you, you're Atlas in his sleepin'
-    And when you move, I'm moved
-    
-    [Pre-Chorus]
-    When you move
-    I can recall somethin' that's gone from me
-    When you move
-    Honey, I'm put in awe of somethin' so flawed and free
-    
-    [Chorus]
-    So move me, baby
-    Shake like the bough of a willow tree
-    You do it naturally
-    Move me, baby
-    So move me, baby
-    Like you've nothin' left to prove
-    And nothin' to lose
-    Move me, baby
-    
-    [Bridge]
-    Ooh, ooh, ooh
-    Oh baby, oh baby
-    Move like grey skies
-    Move like a bird of paradise
-    Move like an odd sight come out at night
-    
-    [Chorus]
-    Move me, baby
-    Shake like the bough of a willow tree
-    You do it naturally
-    Move me, baby
-    So move me, baby
-    Like you've nothin' left to lose
-    And nothin' to prove
-    Move me, baby
-    So move me, baby
-    Shake like the bough of a willow tree
-    You do it naturally
-    Move me, baby
-</root>
+<song>
+    <information>
+        <trackNumber>3</trackNumber>
+        <title>Movement</title>
+        <album>Wasteland, Baby</album>
+    </information>
+    <lyrics>
+        <section type="Verse" n="1">
+            <line>I still watch you when you're groovin'</line>
+            <line>As if through <natureRef element="water">water</natureRef> from the bottom of a pool</line>
+            <line>You're movin' without movin'</line>
+            <line>And when you move, I'm moved</line>
+            <line>You are a call to motion</line>
+            <line>There, all of you a verb in perfect view</line>
+            <line>Like <religRef type="person" id="Jonah">Jonah</religRef> on the <natureRef element="water">ocean</natureRef></line>
+            <line>When you move, I'm moved</line>
+        </section>
+
+        <section type="Pre-Chorus">
+            <line>When you move</line>
+            <line>I'm put to mind of all that I wanna be</line>
+            <line>When you move</line>
+            <line>I could never define all that you are to me</line>
+        </section>
+
+        <section type="Chorus">
+            <line>So move me, baby</line>
+            <line>Shake like the <natureRef type="tree">bough of a willow tree</natureRef></line>
+            <line>You do it naturally</line>
+            <line>Move me, baby</line>
+        </section>
+
+        <section type="Verse" n="2">
+            <line>You are the rite of movement</line>
+            <line>Its reasonin' made lucid and cool</line>
+            <line>I know it's no improvement</line>
+            <line>When you move, I move</line>
+            <line>You're <popCultRef type="person" id="Sergei-Polunin">S. Polunin</popCultRef> leapin'</line>
+            <line>Or <popCultRef type="person" id="Fred-Astaire">Fred Astaire</popCultRef> in sequence</line>
+            <line>Honey, you, you're <mythRef type="person" id="Atlas">Atlas</mythRef> in his sleepin'</line>
+            <line>And when you move, I'm moved</line>
+        </section>
+
+        <section type="Pre-Chorus">
+            <line>When you move</line>
+            <line>I can recall somethin' that's gone from me</line>
+            <line>When you move</line>
+            <line>Honey, I'm put in awe of somethin' so flawed and free</line>
+        </section>
+
+        <section type="Chorus">
+            <line>So move me, baby</line>
+            <line>Shake like the <natureRef type="tree">bough of a willow tree</natureRef></line>
+            <line>You do it naturally</line>
+            <line>Move me, baby</line>
+            <line>So move me, baby</line>
+            <line>Like you've nothin' left to prove</line>
+            <line>And nothin' to lose</line>
+            <line>Move me, baby</line>
+        </section>
+
+        <section type="Bridge">
+            <line>Ooh, ooh, ooh</line>
+            <line>Oh baby, oh baby</line>
+            <line>Move like <natureRef type="element" element="air">grey skies</natureRef></line>
+            <line>Move like a <natureRef type="animal">bird of paradise</natureRef></line>
+            <line>Move like an odd sight come out at night</line>
+        </section>
+
+        <section type="Chorus">
+            <line>Move me, baby</line>
+            <line>Shake like the <natureRef type="tree">bough of a willow tree</natureRef></line>
+            <line>You do it naturally</line>
+            <line>Move me, baby</line>
+            <line>So move me, baby</line>
+            <line>Like you've nothin' left to lose</line>
+            <line>And nothin' to prove</line>
+            <line>Move me, baby</line>
+            <line>So move me, baby</line>
+            <line>Shake like the <natureRef type="tree">bough of a willow tree</natureRef></line>
+            <line>You do it naturally</line>
+            <line>Move me, baby</line>
+        </section>
+    </lyrics>
+</song>
