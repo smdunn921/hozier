@@ -1,32 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    [Verse 1]
-    I had a thought, dear, however scary
-    About that night, the bugs and the dirt
-    Why were you digging? What did you bury
-    Before those hands pulled me from the earth?
+<song>
+    <information>
+        <trackNumber>10</trackNumber>
+        <title>Like Real People Do</title>
+        <album>Hozier</album>
+        <length>3:12</length>
+        <Producer>Hozier, Rob Kirwan</Producer>
+        <Writer>Hozier</Writer>
+        <releaseDate>19 September 2014</releaseDate>
+    </information>
+    <lyrics>
+        <section type="Verse" n="1">
+            <line>I had a thought, dear, however scary</line>
+            <line>About that night, the bugs and the dirt</line>
+            <line>Why were you digging? What did you bury</line>
+            <line>Before those hands pulled me from the earth?</line>
+        </section>
     
-    [Chorus]
-    I will not ask you where you came from
-    I will not ask and neither should you
-    Honey, just put your sweet lips on my lips
-    We should just kiss like real people do
+        <section type="Chorus">
+            <line>I will not ask you where you came from</line>
+            <line>I will not ask and neither should you</line>
+            <line>Honey, just put your sweet lips on my lips</line>
+            <line>We should just kiss like real people do</line>
+        </section>
     
-    [Verse 2]
-    I knew that look, dear: eyes always seeking
-    Was there in someone that dug long ago
-    So I will not ask you why you were creeping
-    In some sad way, I already know
+        <section type="Verse" n="2">
+            <line>I knew that look, dear: eyes always seeking</line>
+            <line>Was there in someone that dug long ago</line>
+            <line>So I will not ask you why you were creeping</line>
+            <line>In some sad way, I already know</line>
+        </section>
     
-    [Chorus]
-    So I will not ask you where you came from
-    I would not ask and neither would you
-    Honey, just put your sweet lips on my lips
-    We should just kiss like real people do
+        <section type="Chorus">
+            <line>So I will not ask you where you came from</line>
+            <line>I would not ask and neither would you</line>
+            <line>Honey, just put your sweet lips on my lips</line>
+            <line>We should just kiss like real people do</line>
+        </section>
     
-    [Chorus]
-    I could not ask you where you came from
-    I could not ask and neither could you
-    Honey, just put your sweet lips on my lips
-    We could just kiss like real people do
-</root>
+        <section type="Chorus">
+            <line>I could not ask you where you came from</line>
+            <line>I could not ask and neither could you</line>
+            <line>Honey, just put your sweet lips on my lips</line>
+            <line>We could just kiss like real people do</line>
+        </section>
+    </lyrics>
+</song>
