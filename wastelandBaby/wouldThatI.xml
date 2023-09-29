@@ -7,20 +7,20 @@
     </information>
     <lyrics>
         <section type="Verse" n="1">
-            <line>True that I saw her hair like the <natureRef type="tree">branch of a
-                    tree</natureRef></line>
-            <line>A <natureRef type="tree">willow</natureRef> dancing on <natureRef type="element"
-                    element="air">air</natureRef> before covering me</line>
+            <line>True that I saw her hair like the <natureRef element="earth" type="tree">branch</natureRef> of a
+                tree</line>
+            <line>A <natureRef element="earth" type="tree">willow</natureRef> dancing on <natureRef
+                element="air">air</natureRef> before covering me</line>
             <line>Under cotton and calicoes</line>
             <line>Over canopy dappled long ago</line>
             <line>True that love in withdrawal was the weepin' of me</line>
-            <line>That the sound of the saw must be known by the <natureRef type="tree"
-                    >tree</natureRef></line>
+            <line>That the sound of the saw must be known by the <natureRef element="earth" type="tree"
+                >tree</natureRef></line>
             <line>Must be felled for to fight the cold</line>
-            <line>Fretted <natureRef type="element" element="fire">fire</natureRef> but that was
+            <line>Fretted <natureRef element="fire">fire</natureRef> but that was
                 long ago</line>
         </section>
-
+        
         <section type="Chorus">
             <line>It's not tonight (Oh, oh)</line>
             <line>Where I'm set alight (Oh, oh)</line>
@@ -28,28 +28,28 @@
             <line>Of your blinding light (Oh, oh)</line>
             <line>Oh, it's not tonight (Oh, oh)</line>
             <line>Where you hold me tight (Oh, oh)</line>
-            <line>And the <natureRef type="element" element="fire">fire</natureRef> bright (Oh,
+            <line>And the <natureRef element="fire">fire</natureRef> bright (Oh,
                 oh)</line>
             <line>Oh, let it blaze alright (Oh, oh)</line>
             <line>Oh, but you're good to me, oh, you're good to me (Oh, oh)</line>
             <line>Oh, but that you're good to me, baby (Oh, oh)</line>
         </section>
-
+        
         <section type="Verse" n="2">
-            <line>With the roar of the <natureRef type="element" element="fire">fire</natureRef>, my
+            <line>With the roar of the <natureRef element="fire">fire</natureRef>, my
                 heart rose to its feet</line>
             <line>Like the ashes of ash, I saw rise in the heat</line>
-            <line>Settled soft and as pure as <natureRef type="element" element="water"
-                    >snow</natureRef></line>
-            <line>I fell in love with the <natureRef type="element" element="fire">fire</natureRef>
+            <line>Settled soft and as pure as <natureRef  element="water" type="snow"
+                >snow</natureRef></line>
+            <line>I fell in love with the <natureRef element="fire">fire</natureRef>
                 long ago</line>
             <line>With each love I cut loose, I was never the same</line>
-            <line>Watching still-living <natureRef type="root">roots</natureRef> be consumed by the
-                    <natureRef type="element" element="fire">fire</natureRef></line>
+            <line>Watching still-living <natureRef element="earth" type="root">roots</natureRef> be consumed by the
+                <natureRef element="fire">flame</natureRef></line>
             <line>I was fixed on your hand of gold</line>
             <line>Layin' waste to my lovin' long ago</line>
         </section>
-
+        
         <section type="Chorus">
             <line>But that's not tonight (Oh, oh)</line>
             <line>Where I'm set alight (Oh, oh)</line>
@@ -57,22 +57,22 @@
             <line>Of your blinding light (Oh, oh)</line>
             <line>And it's not tonight (Oh, oh)</line>
             <line>Where you hold me tight (Oh, oh)</line>
-            <line>And the <natureRef type="element" element="fire">fire</natureRef> bright (Oh,
+            <line>And the <natureRef element="fire">fire</natureRef> bright (Oh,
                 oh)</line>
             <line>Oh, let it blaze alright, honey (Oh, oh)</line>
             <line>Oh, but you're good to me, oh, you're good to me (Oh, oh)</line>
             <line>Oh, but you're good to me, baby (Oh, oh)</line>
         </section>
-
+        
         <section type="Verse" n="3">
             <line>So in awe, there I stood as you licked off the grain</line>
-            <line>Though I've handled the wood, I still worship the <natureRef type="element"
-                    element="fire">fire</natureRef></line>
-            <line>As long as amber of <natureRef type="element" element="fire">fire</natureRef>
+            <line>Though I've handled the wood, I still worship the <natureRef 
+                element="fire">flame</natureRef></line>
+            <line>As long as amber of <natureRef type="element" element="fire">ember</natureRef>
                 glows</line>
             <line>All the "would" that I'd loved is long ago</line>
         </section>
-
+        
         <section type="Chorus">
             <line>And it's not tonight (Oh, oh)</line>
             <line>Where I'm set alight (Oh, oh)</line>
