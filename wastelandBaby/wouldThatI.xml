@@ -68,7 +68,7 @@
             <line>So in awe, there I stood as you licked off the grain</line>
             <line>Though I've handled the wood, I still worship the <natureRef 
                 element="fire">flame</natureRef></line>
-            <line>As long as amber of <natureRef type="element" element="fire">ember</natureRef>
+            <line>As long as amber of <natureRef element="fire">ember</natureRef>
                 glows</line>
             <line>All the "would" that I'd loved is long ago</line>
         </section>
@@ -80,7 +80,7 @@
             <line>Of your blinding light (Oh, oh)</line>
             <line>Oh, it's not tonight (Oh, oh)</line>
             <line>Where you hold me tight (Oh, oh)</line>
-            <line>And the <natureRef type="element" element="fire">fire</natureRef> bright (Oh,
+            <line>And the <natureRef element="fire">fire</natureRef> bright (Oh,
                 oh)</line>
             <line>Oh, let it blaze alright (Oh, oh)</line>
             <line>Oh, you're good to me, oh, you're good to me (Oh, oh)</line>
